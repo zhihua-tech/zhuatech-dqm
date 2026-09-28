@@ -1,5 +1,7 @@
 # 数据质量不是一次清洗，而是一套持续运行的责任机制
 
+[简体中文](README.md) | [English](README.en.md)
+
 <div align="center">
 
 ## ZhuaTech DQM
